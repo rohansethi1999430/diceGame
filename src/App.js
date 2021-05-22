@@ -6,6 +6,9 @@ function App() {
   return (
     <div className="App">
       <Die face="five"/>
+      <Die face="six"/>
+      <Die face="two"/>
+      <Die face="three"/>
     </div>
   );
 }
